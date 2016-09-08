@@ -1,0 +1,277 @@
+div.bodybackground {
+border: 12em;
+background-color: lightgray;
+display: block; 
+padding-left: 2em;    
+padding-right: 1em;
+padding-top: .00005em; 
+padding-bottom: 11em;    
+border-width: 1em;    
+margin: 2em;
+margin-top: -22em;    
+margin-right: 5em;
+height: 12em;    
+width: 18%;    
+}
+
+
+
+#title1{
+background-color: aliceblue;
+height: 8em;
+width:24%;    
+margin-left: 2em;
+margin-top: 4em;   
+visibility: visible;
+margin-bottom: -1.2em;    
+position: relative;  
+padding-bottom:.002em;
+padding-top: .009em;  
+border-color: black;
+border: .1em solid; }
+
+
+#box1{
+ box-sizing: border-box;   
+ border: 5em;
+ background-color: darkgray;
+ width: 14.5em;  
+ height: 6em;
+ padding: 1em;  
+ margin-bottom:-12em;
+ margin-top: 3em;    
+ margin-left: 3em;  
+ visibility: visible;   
+ position: relative;    
+}
+
+
+#box2{
+ box-sizing: border-box;   
+ border: 5em;
+ background-color: darkgray;
+ width: 14.5em;  
+ height: 6em;
+ padding: 1em;  
+ margin-bottom:-18em;
+ margin-top: 13em;    
+ margin-left: 3em;  
+ visibility: visible;   
+ position: relative;    
+}
+
+
+#box3{
+ box-sizing: border-box;   
+ border: 5em;
+ background-color: darkgray;
+ width: 14.5em;  
+ height: 6em;
+ padding: 1em;  
+ margin-bottom:-18em;
+ margin-top: 19.25em;    
+ margin-left: 3em;  
+ visibility: visible;   
+ position: relative;    
+}
+
+
+/*.........MEDIA QUERIES............................*/
+
+
+@media (max-width: 1036px){
+    div.bodybackground {
+    max-width: 95%;
+    display: block;
+    width: 25%;}
+
+    #title1{
+    max-width: 100%;
+    width: 30%;}}
+
+
+
+@media (max-width: 945px){
+    div.bodybackground {
+    max-width: 95%;
+    display: block;
+    width: 25%;}
+
+
+
+
+@media (max-width: 915px){
+ 
+ div.bodybackground {
+    max-width: 95%;
+    display: block;
+    width: 25%;}
+
+
+
+
+@media (max-width: 845px){
+ 
+ div.bodybackground {
+    max-width: 95%;
+    display: block;
+    width: 28%;}
+#title1{
+        max-width: 100%;
+        width: 33.75%;}
+    
+
+
+
+@media (max-width: 800px){
+ 
+ div.bodybackground {
+    max-width: 95%;
+    display: block;
+    width: 28%;}
+
+#title1{
+        max-width: 100%;
+        width: 33.75%;}
+    
+
+
+@media (max-width: 785px){
+ 
+ div.bodybackground {
+    max-width: 95%;
+    display: block;
+    width: 28%;}
+ 
+    
+    #title1{
+        max-width: 100%;
+        width: 34%;}
+    
+
+
+@media (max-width: 745px){
+ div.bodybackground {
+    max-width: 95%;
+    display: block;
+    width: 31.5%;}
+        
+    
+    #title1{
+        max-width: 100%;
+        width: 38%;}}
+    
+    
+    
+@media (max-width: 695px){
+ div.bodybackground {
+    max-width: 95%;
+    display: block;
+    width: 32%;}
+      
+    
+#title1{
+    max-width: 100%;
+    width: 38.75%;    }}
+
+
+
+@media (max-width: 640px){
+    div.bodybackground {
+    max-width: 95%;
+    display: block;
+    width: 35%;}
+    
+     
+    #title1{
+    max-width: 100%;
+    width: 42.5%;    }}
+
+
+@media (max-width: 620px){
+    div.bodybackground {
+    max-width: 100%;
+    display: block;
+    width: 36.5%;}
+    
+    
+    #title1{
+    max-width: 100%;
+    width: 44.2%;  }}  
+        
+/*.............................Smaller screens.............*/    
+        
+@media (max-width: 585px){
+    div.bodybackground {
+    max-width: 95%;
+    display: block;
+    width: 38%;}
+    
+
+    #title1{
+    max-width: 100%;
+        width: 45.9%;  }}  
+            
+    
+    
+
+@media (max-width: 546px){
+    div.bodybackground {
+    max-width: 95%;
+    display: block;
+    width: 41%;}
+    
+    
+
+#title1{
+max-width: 100%;
+    width: 49.6%;    }   
+}
+    
+ 
+@media (max-width: 505px){
+    div.bodybackground {
+    max-width: 100%;
+    display: block;
+    width: 45%;}
+    
+    
+    
+    
+#title1{
+    max-width: 100%;
+    width: 55%; }   
+}
+
+@media (max-width: 477px){
+    
+    div.bodybackground {
+    max-width: 95%;
+    display: block;
+    width: 53.25%;}
+    
+#title1{
+
+max-width: 100%;
+width: 64.7%;}
+
+}
+
+@media (max-width: 395px){
+    
+    div.bodybackground {
+    max-width: 95%;
+    display: block;
+    width: 55%;}
+    
+    #title1{
+        max-width: 100%;
+        width: 80%;}
+    
+    
+}
+
+       
+ 
+       
+ 
